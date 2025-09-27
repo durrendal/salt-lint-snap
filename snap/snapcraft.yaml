@@ -1,3 +1,12 @@
+title: salt-lint
+contact:
+  - durrendal@lambdacreate.com
+issues:
+  - https://github.com/durrendal/salt-lint-snap
+source-code:
+  - https://github.com/warpnet/salt-lint
+websites:
+  - https://salt-lint.readthedocs.io/en/latest/
 name: salt-lint
 base: core24
 version: '0.9.2'
