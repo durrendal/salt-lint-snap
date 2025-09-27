@@ -5,7 +5,7 @@ issues:
   - https://github.com/durrendal/salt-lint-snap
 source-code:
   - https://github.com/warpnet/salt-lint
-websites:
+website:
   - https://salt-lint.readthedocs.io/en/latest/
 name: salt-lint
 base: core24
